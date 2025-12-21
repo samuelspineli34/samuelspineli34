@@ -23,7 +23,7 @@ Desenvolvedor focado na construção de sistemas escaláveis e na manutenção d
 </p>
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/github-metrics.svg" />
+  <img src="https://github.com/samuelspineli34/samuelspineli34/blob/main/github-metrics.svg" />
 </p>
 
 
