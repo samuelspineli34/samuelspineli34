@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Banner Samuel Spineli" width="100%" />
 </p>
 
-## 🌱 Tecnologias em Cultivo
+## Tecnologias em Cultivo
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-2E7D32?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -12,8 +12,12 @@
   <img src="https://img.shields.io/badge/Flutter-2E7D32?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
+<img src="https://github.com/samuelspineli34/samuelspineli34/blob/main/github-metrics.svg" />
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelspineli34&theme=green-eco&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelspinelli34&show_icons=true&theme=dark&bg_color=081408&title_color=81C784&icon_color=4CAF50&text_color=F1F8E9&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelspinelli34&layout=compact&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" alt="Top Langs" />
 </p>
 
 
@@ -21,7 +25,8 @@
   <a href="https://www.linkedin.com/in/samuel-spineli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://samuelspineli34.github.io/Portifolio/" target="_blank">
+  <a href="https://samuelspinelli34.github.io/Portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
