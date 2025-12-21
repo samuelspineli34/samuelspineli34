@@ -1,51 +1,53 @@
 <p align="center">
-  <!-- BANNER DINÂMICO: Verde, Bordas Escuras e Efeito de Partículas (Brilho) -->
-  <svg width="800" height="260" viewBox="0 0 800 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- BANNER TÉCNICO: Estética de Jardinagem e Estrutura de Software -->
+  <svg width="800" height="280" viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="garden_gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0D1A0D" />
-        <stop offset="50%" stop-color="#1B301B" />
-        <stop offset="100%" stop-color="#0D1A0D" />
+        <stop offset="0%" stop-color="#081408" />
+        <stop offset="50%" stop-color="#122612" />
+        <stop offset="100%" stop-color="#081408" />
       </linearGradient>
-      <clipPath id="clip_rounded">
-        <rect x="0" y="0" width="800" height="260" rx="15" />
-      </clipPath>
+      <!-- Efeito de brilho difuso nas partículas -->
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="1.5" result="coloredBlur" />
+        <feMerge>
+          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
     </defs>
 
-    <!-- Fundo com Borda -->
-    <rect x="0" y="0" width="800" height="260" rx="15" fill="#050A05" />
-    <rect x="4" y="4" width="792" height="252" rx="12" fill="url(#garden_gradient)" />
+    <!-- Fundo com Borda Refinada -->
+    <rect x="0" y="0" width="800" height="280" rx="10" fill="#040804" />
+    <rect x="4" y="4" width="792" height="272" rx="8" fill="url(#garden_gradient)" />
 
-    <!-- Efeito de Brilhos/Partículas -->
-    <g opacity="0.6">
-      <circle cx="120" cy="60" r="1.5" fill="#A5D6A7">
-        <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+    <!-- Partículas de Brilho (Vagalumes Técnicos) -->
+    <g filter="url(#glow)">
+      <circle cx="150" cy="80" r="1.2" fill="#81C784">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite" />
       </circle>
-      <circle cx="650" cy="190" r="1" fill="white">
-        <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
+      <circle cx="650" cy="200" r="1" fill="#A5D6A7">
+        <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite" />
       </circle>
-      <circle cx="400" cy="130" r="2" fill="#81C784">
-        <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="150" cy="200" r="1" fill="white">
-        <animate attributeName="opacity" values="1;0;1" dur="2.5s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="700" cy="50" r="1.5" fill="#C8E6C9">
+      <circle cx="400" cy="150" r="1.5" fill="white">
         <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="100" cy="220" r="1" fill="#4CAF50">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="6s" repeatCount="indefinite" />
       </circle>
     </g>
 
-    <!-- Elemento Botânico Estilizado (Folha Técnica) -->
-    <path d="M400 40 C440 90, 460 170, 400 220 C340 170, 360 90, 400 40Z" fill="#2E7D32" opacity="0.3">
-        <animateTransform attributeName="transform" type="rotate" from="-2 400 130" to="2 400 130" dur="3s" repeatCount="indefinite" direction="alternate"/>
+    <!-- Folha Estilizada (Geometria Botânica) -->
+    <path d="M400 60 C430 100, 450 160, 400 210 C350 160, 370 100, 400 60Z" fill="#2E7D32" opacity="0.2">
+        <animateTransform attributeName="transform" type="rotate" from="-1 400 135" to="1 400 135" dur="4s" repeatCount="indefinite" direction="alternate"/>
     </path>
 
-    <!-- Texto Principal -->
-    <text x="50%" y="125" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#E8F5E9" style="letter-spacing: 4px;">
-      SAMUEL SPINELLI
+    <!-- Texto Principal Corrigido -->
+    <text x="50%" y="130" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#F1F8E9" style="letter-spacing: 5px;">
+      SAMUEL SPINELI
     </text>
-    <text x="50%" y="160" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="14" fill="#81C784" style="letter-spacing: 2px;">
-      CULTIVANDO ESTRUTURAS E ARQUITETURAS DE SOFTWARE
+    <text x="50%" y="165" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="13" fill="#A5D6A7" style="letter-spacing: 2.5px; opacity: 0.8;">
+      ENGENHARIA DE SOFTWARE E CULTIVO DE ESTRUTURAS
     </text>
   </svg>
 </p>
