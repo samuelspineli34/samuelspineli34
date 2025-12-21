@@ -1,15 +1,10 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Banner Samuel Spineli" width="100%" />
 </p>
-
 <br>
 
-**Atuação Técnica**  
-Desenvolvedor focado na construção de sistemas escaláveis e na manutenção de ecossistemas digitais saudáveis.
+## 🌱 Tecnologias em Cultivo
 
----
-
-## Tecnologias em Cultivo
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-2E7D32?style=for-the-badge&logo=typescript&logoColor=white" />
