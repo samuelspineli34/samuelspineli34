@@ -1,16 +1,11 @@
-<table align="center" width="100%">
-  <tr>
-    <td bgcolor="#0b2e13" style="padding:24px;">
-      <h1 align="center">Samuel Spineli</h1>
-      <h4 align="center">Engenharia de Software • Cultivo de Estruturas</h4>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner Samuel Spineli" width="100%" />
+</p>
 
 <br>
 
-> **Atuação Técnica**  
-> Desenvolvedor focado na construção de sistemas escaláveis e na manutenção de ecossistemas digitais saudáveis.
+**Atuação Técnica**  
+Desenvolvedor focado na construção de sistemas escaláveis e na manutenção de ecossistemas digitais saudáveis.
 
 ---
 
@@ -26,10 +21,4 @@
 
 <p align="center">
   <img src="https://github.com/samuelspineli34/samuelspineli34/blob/main/github-metrics.svg" />
-</p>
-
----
-
-<p align="center">
-  <i>"O jardim que não é cultivado se torna um mato.” — C. S. Lewis</i>
 </p>
