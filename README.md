@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/samuelspineli34/samuelspineli34/blob/main/github-metrics.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelspineli34&theme=green-eco&show_icons=true" />
 </p>
 
 
