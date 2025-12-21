@@ -1,8 +1,7 @@
 <p align="center">
 
 # Samuel Spineli
-
-### Engenharia de Software • Cultivo de Estruturas
+##### Engenharia de Software • Cultivo de Estruturas
 
 ---
 
@@ -10,8 +9,7 @@
 
 
 ## Atuação Técnica
-Desenvolvedor focado na construção de sistemas escaláveis e na manutenção de ecossistemas digitais saudáveis. Aspirante à curadoria de concursos botânicos.
-
+Desenvolvedor focado na construção de sistemas escaláveis e na manutenção de ecossistemas digitais saudáveis.
 ---
 
 ## Tecnologias em Cultivo
@@ -24,14 +22,12 @@ Desenvolvedor focado na construção de sistemas escaláveis e na manutenção d
   <img src="https://img.shields.io/badge/Flutter-2E7D32?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-## Métricas de Desenvolvimento
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelspinelli34&show_icons=true&theme=highcontrast&hide_border=false&bg_color=0D1A0D&title_color=81C784&icon_color=4CAF50&text_color=E8F5E9" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelspinelli34&layout=compact&theme=highcontrast&hide_border=false&bg_color=0D1A0D&title_color=81C784&text_color=E8F5E9" alt="Top Langs" />
+  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/github-metrics.svg" />
 </p>
+
 
 ---
 <p align="center">
-  <i>"A boa arquitetura, assim como um jardim, exige poda constante e atenção às raízes."</i>
+  <i>"O jardim que não é cultivado se torna um mato.” — C. S. Lewis</i>
 </p>
