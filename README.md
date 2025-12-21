@@ -12,13 +12,14 @@
   <img src="https://img.shields.io/badge/Flutter-2E7D32?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-<img src="https://github.com/samuelspineli34/samuelspineli34/blob/main/github-metrics.svg" />
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelspineli34&show_icons=true&theme=dark&bg_color=081408&title_color=81C784&icon_color=4CAF50&text_color=F1F8E9&hide_border=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelspineli34&layout=compact&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" alt="Top Langs" />
 </p>
+
+
+<img src="https://github.com/samuelspineli34/samuelspineli34/blob/main/github-metrics.svg" />
+
 
 
 <p align="center">
