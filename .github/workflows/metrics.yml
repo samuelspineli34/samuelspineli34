@@ -32,6 +32,3 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_charts: yes
-
-          # Streak
-          plugin_streak: yes
