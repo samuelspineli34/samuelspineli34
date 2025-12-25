@@ -12,28 +12,28 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelspineli34&show_icons=true&theme=dark&bg_color=081408&title_color=81C784&icon_color=4CAF50&text_color=F1F8E9&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelspineli34&layout=compact&langs_count=8&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img height="170" align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api?username=samuelspineli34&show_icons=true&bg_color=081408&title_color=81C784&icon_color=4CAF50&text_color=F1F8E9&hide_border=true"/>
+  <img height="170" align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/top-langs/?username=samuelspineli34&layout=compact&langs_count=8&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Portfolio&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Fretly&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Portfolio&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Fretly&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Hemocentro&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=GenreID&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Hemocentro&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=GenreID&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Aplicativo-Risco-UV&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Classificador-de-Osteoartrose&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Aplicativo-Risco-UV&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Classificador-de-Osteoartrose&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Calculadora-Retas-GAAL&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=ListaChatGPT&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Calculadora-Retas-GAAL&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
+  <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=ListaChatGPT&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
 </p>
 
 
@@ -45,6 +45,7 @@
     <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 
 
