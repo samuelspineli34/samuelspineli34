@@ -30,7 +30,8 @@
   <a href="https://www.linkedin.com/in/samuel-spineli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://samuelspinelli34.github.io/Portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://samuelspineli34.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=harbor&logoColor=white" />
   </a>
 </div>
+
