@@ -32,7 +32,7 @@
   </a>
   <a href="https://samuelspineli34.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=harbor&logoColor=white" />
-    <img src="https://img.shields.io/badge/Portfólio-🌿-081408?style=for-the-badge&logoColor=81C784" />
+<img src="https://img.shields.io/badge/Portfólio-🌿_Cultivando_Soluções-081408?style=for-the-badge&logoColor=81C784" />
   </a>
 </div>
 
