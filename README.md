@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Portfolio&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Fretly&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Hemocentro&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=GenreID&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Aplicativo-Risco-UV&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Classificador-de-Osteoartrose&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Calculadora-Retas-GAAL&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=ListaChatGPT&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Portfolio&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Fretly&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Hemocentro&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=GenreID&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Aplicativo-Risco-UV&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Classificador-de-Osteoartrose&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=Calculadora-Retas-GAAL&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelspineli34&repo=ListaChatGPT&theme=dark&bg_color=081408&title_color=81C784&text_color=F1F8E9&border_color=122612" style="height:150px; width:401px;" />
 </p>
 
 
@@ -37,4 +37,5 @@
     <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
