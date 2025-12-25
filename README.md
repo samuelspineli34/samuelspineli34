@@ -36,7 +36,6 @@
   <img align="center" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=ListaChatGPT&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true" />
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-spineli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,6 +44,7 @@
     <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 
 
