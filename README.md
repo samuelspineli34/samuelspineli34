@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" />
   <br />
 
   <img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,6 +33,7 @@
     <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1zcHJvdXQtaWNvbiBsdWNpZGUtc3Byb3V0Ij48cGF0aCBkPSJNMTQgOS41MzZWN2E0IDQgMCAwIDEgNC00aDEuNWEuNS41IDAgMCAxIC41LjVWNWE0IDQgMCAwIDEtNCA0IDQgNCAwIDAgMC00IDRjMCAyIDEgMyAxIDVhNSA1IDAgMCAxLTEgMyIvPjxwYXRoIGQ9Ik00IDlhNSA1IDAgMCAxIDggNCA1IDUgMCAwIDEtOC00Ii8+PHBhdGggZD0iTTUgMjFoMTQiLz48L3N2Zz4=" />
   </a>
 </div>
+
 
 
 
