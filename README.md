@@ -22,7 +22,7 @@
   <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Aplicativo-Risco-UV&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
   <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Classificador-de-Osteoartrose&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
   <br />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Calculadora-Retas-GAAL&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
+  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=universal-video-downloader&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
   <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=ListaChatGPT&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
   <br />
 
