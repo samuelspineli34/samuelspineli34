@@ -1,39 +1,38 @@
+# Samuel Spineli Rodrigues
+Software Developer | Musician | Home gardener
+
+## About me
+Bachelor of Computer Science with hands-on experience in enterprise software development. Currently focused on building and scaling internal platforms, working with TypeScript on the frontend and Python for backend integration. I have a strong background in software architecture, database modeling, and integrating complex systems to deliver robust and efficient solutions.
+
+## Technical Skills
+- **Languages:** Python, TypeScript, C, C++, Java.
+- **Frontend & Mobile:** Flutter, Vite, Web Technologies.
+- **Backend & Architecture:** API Integration, Software Architecture, RESTful Services.
+- **Database:** PostgreSQL, Data Modeling.
+- **Tools & DevOps:** CI/CD Pipelines, Git, Linux, Infrastructure Automation.
+
 <div align="center">
-  <br />
-
-  <img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-2E7D32?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-388E3C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-43A047?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-1B5E20?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-2E7D32?style=for-the-badge&logo=flutter&logoColor=white" />
-  <br />
-
-  <img height="170" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/top-langs/?username=samuelspineli34&layout=compact&langs_count=8&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0" />
-  <br />
-
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Portfolio&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Fretly&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <br />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Hemocentro&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=GenreID&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <br />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Aplicativo-Risco-UV&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Classificador-de-Osteoartrose&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <br />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=universal-video-downloader&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=ListaChatGPT&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
-  <br />
-
-  <a href="https://www.linkedin.com/in/samuel-spineli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc1NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" />
-  </a>
-  <a href="https://samuelspineli34.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-1B5E20?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1zcHJvdXQtaWNvbiBsdWNpZGUtc3Byb3V0Ij48cGF0aCBkPSJNMTQgOS41MzZWN2E0IDQgMCAwIDEgNC00aDEuNWEuNS41IDAgMCAxIC41LjVWNWE0IDQgMCAwIDEtNCA0IDQgNCAwIDAgMC00IDRjMCAyIDEgMyAxIDVhNSA1IDAgMCAxLTEgMyIvPjxwYXRoIGQ9Ik00IDlhNSA1IDAgMCAxIDggNCA1IDUgMCAwIDEtOC00Ii8+PHBhdGggZD0iTTUgMjFoMTQiLz48L3N2Zz4=" />
-  </a>
+<img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-2E7D32?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-388E3C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-43A047?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-1B5E20?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-2E7D32?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
+## Featured Projects
+<div align="center">
+<img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Portfolio&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
+<img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Fretly&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
+<br>
+<img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Hemocentro&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
+<img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=GenreID&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
+<br>
+<img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Aplicativo-Risco-UV&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
+<img src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/pin/?username=samuelspineli34&repo=Classificador-de-Osteoartrose&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0&description_lines_count=3" />
+</div>
 
-
-
-
+## Connect
+<div align="center">
+<a href="https://www.linkedin.com/in/samuel-spineli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc1NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://samuelspineli34.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1B5E20?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1zcHJvdXQtaWNvbiBsdWNpZGUtc3Byb3V0Ij48cGF0aCBkPSJNMTQgOS41MzZWN2E0IDQgMCAwIDEgNC00aDEuNWEuNS41IDAgMCAxIC41LjVWNWE0IDQgMCAwIDEtNCA0IDQgNCAwIDAgMC00IDRjMCAyIDEgMyAxIDVhNSA1IDAgMCAxLTEgMyIvPjxwYXRoIGQ9Ik00IDlhNSA1IDAgMCAxIDggNCA1IDUgMCAwIDEtOC00Ii8+PHBhdGggZD0iTTUgMjFoMTQiLz48L3N2Zz4=" /></a>
+</div>
