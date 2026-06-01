@@ -5,7 +5,6 @@ Software Developer | Musician | Home gardener
 Bachelor of Computer Science with hands-on experience in enterprise software development. Currently focused on building and scaling internal platforms, working with TypeScript on the frontend and Python for backend integration. I have a strong background in software architecture, database modeling, and integrating complex systems to deliver robust and efficient solutions.
 
 ## Technical Skills
-- **Languages:** Python, TypeScript, C, C++, Java.
 - **Frontend & Mobile:** Flutter, Vite, Web Technologies.
 - **Backend & Architecture:** API Integration, Software Architecture, RESTful Services.
 - **Database:** PostgreSQL, Data Modeling.
