@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Flutter-2E7D32?style=for-the-badge&logo=flutter&logoColor=white" />
   <br />
 
-  <img height="170" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api?username=samuelspineli34&show_icons=true&bg_color=081408&title_color=81C784&icon_color=4CAF50&text_color=F1F8E9&hide_border=true&border_radius=0&show=reviews,prs_merged" />
   <img height="170" src="https://readme-git-main-samuelspineli34s-projects.vercel.app/api/top-langs/?username=samuelspineli34&layout=compact&langs_count=8&bg_color=081408&title_color=81C784&text_color=F1F8E9&hide_border=true&border_radius=0" />
   <br />
 
