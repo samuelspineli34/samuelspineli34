@@ -19,13 +19,13 @@ Currently exploring **Rust, Tauri, desktop applications, and local AI**.
 
 **Main stack**
 
-<img src="https://skillicons.dev/icons?i=ts,react,python,postgres,rust,tauri,vite,git&theme=dark" alt="Main technologies" />
+<img src="https://skillicons.dev/icons?i=ts,react,python,html,css,js,postgres,rust,tauri,vite,git&theme=dark" alt="Main technologies" />
 
 <br /><br />
 
 **Also familiar with**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter,c,cpp,java,linux&theme=dark" alt="Additional technologies" />
+<img src="https://skillicons.dev/icons?i=flutter,c,c++,cpp,java,linux&theme=dark" alt="Additional technologies" />
 
 </div>
 
