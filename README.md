@@ -86,23 +86,18 @@ An exploration of music classification and audio processing using Python.
 
 </details>
 
+
 ## `$ activity`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelspineli34&bg_color=0d1117&color=86d9a5&line=4fbd7a&point=c9f7d5&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
-
-</div>
-
 
 <div align="center">
 
 <img
   src="https://raw.githubusercontent.com/samuelspineli34/samuelspineli34/output/github-snake-dark.svg"
-  alt="GitHub contribution snake"
+  alt="GitHub contribution activity"
 />
 
 </div>
+
 
 
 ## `$ exit --social`
