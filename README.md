@@ -1,157 +1,130 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Samuel Spineli — Software Developer" width="100%" />
+<img src="assets/profile-banner.svg" alt="Samuel Spineli" width="100%" />
 
 <br />
 
-### Software Developer · Frontend & Full-Stack · Desktop Applications
-
-Building practical software with thoughtful interfaces, reliable integrations, and a curiosity for what comes next.
+*I build software. Occasionally, I even convince it to cooperate.*
 
 <br />
-
-<a href="https://samuelspineli.vercel.app/">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/samuel-spineli/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:">Contact</a>
 
 </div>
 
----
+## `$ whoami`
 
-## About Me
+Computer Science graduate with hands-on experience in software development, primarily focused on frontend engineering with TypeScript and React, alongside backend integrations using Python.
 
-I'm a Computer Science graduate with hands-on experience developing and maintaining software in corporate environments.
+I enjoy building things that solve actual problems, exploring different technologies, and working with people from different areas of engineering.
 
-My experience is primarily focused on **frontend development with TypeScript**, alongside backend integrations and services using **Python**.
+Currently spending a considerable amount of time experimenting with **Rust, Tauri, desktop applications, and local AI**.
 
-I enjoy working beyond implementation: understanding requirements, collaborating with multidisciplinary teams, contributing to technical decisions, and turning real-world problems into maintainable software.
+Outside the editor: music, games, and trying to keep plants alive.
 
-I'm also interested in desktop application development, systems architecture, and the practical applications of artificial intelligence.
-
-Currently exploring **Rust, Tauri, and local AI ecosystems** while continuously improving my software engineering skills.
-
-## Tech Stack
+## `$ tech-stack`
 
 <div align="center">
-
-**Main Technologies**
 
 <img src="https://skillicons.dev/icons?i=ts,react,python,postgres,rust,tauri,vite,git&theme=dark" alt="Main technologies" />
 
 <br /><br />
 
-**Additional Experience**
-
 <img src="https://skillicons.dev/icons?i=html,css,js,flutter,c,cpp,java,linux&theme=dark" alt="Additional technologies" />
 
 </div>
 
-| Area | Technologies |
+| Focus | Technologies |
 |---|---|
 | Frontend | TypeScript, React, Vite, HTML, CSS |
-| Backend | Python, REST APIs, API Integration |
+| Backend | Python, REST APIs, Integrations |
 | Desktop | Rust, Tauri |
-| Database | PostgreSQL, Relational Data Modeling |
+| Database | PostgreSQL, Data Modeling |
 | Tools | Git, Linux, CI/CD |
 
-## Featured Projects
+## `$ ls ./projects`
 
-I enjoy building software that combines practical problem-solving, engineering, and user experience.
+A selection of things I've built, broken, improved, and learned from.
 
-### 01. Esperto
+### [Esperto](https://github.com/samuelspineli34/Esperto)
 
-<a href="https://github.com/samuelspineli34/Esperto">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=flat-square&logo=github&logoColor=white" alt="View Esperto" />
-</a>
+**Desktop AI Application**
 
-**Desktop AI Application · Rust · Tauri · React · TypeScript**
+A desktop environment for working with AI models, bringing local inference, external providers, multimodal capabilities, and image generation workflows into one application.
 
-A desktop application designed to bring AI capabilities into a unified environment, with support for local models and external AI integrations.
+`Rust` `Tauri` `React` `TypeScript` `AI`
 
-Exploring desktop performance, model management, multimodal interactions, image generation workflows, and practical AI-assisted experiences.
+### [Osaka-Tech](https://github.com/samuelspineli34/Osaka-Tech)
 
-`Rust` `Tauri` `React` `TypeScript` `Local AI`
+**Internal Support Management**
 
----
+A project focused on organizing technical support requests and internal workflows.
 
-### 02. Osaka-Tech
+`TypeScript`
 
-<a href="https://github.com/samuelspineli34/Osaka-Tech">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=flat-square&logo=github&logoColor=white" alt="View Osaka-Tech" />
-</a>
+### [Fretly](https://github.com/samuelspineli34/Fretly)
 
-**Software Development · Internal Systems**
+**Music Learning Application**
 
-A project focused on internal technical support management, organizing workflows and improving the handling of support requests.
+An interactive guitar fretboard learning tool designed to help musicians memorize notes through quizzes and audio feedback.
 
-`TypeScript` `Web Development`
+`TypeScript` `Web Audio`
 
----
+### [GenreID](https://github.com/samuelspineli34/GenreID)
 
-### 03. Fretly
+**Music Classification**
 
-<a href="https://github.com/samuelspineli34/Fretly">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=flat-square&logo=github&logoColor=white" alt="View Fretly" />
-</a>
-
-**Music Learning Application · TypeScript**
-
-An interactive guitar fretboard learning application designed to help musicians memorize note positions through quizzes and audio feedback.
-
-`TypeScript` `Music Technology` `Web Audio`
-
----
-
-### 04. GenreID
-
-<a href="https://github.com/samuelspineli34/GenreID">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=flat-square&logo=github&logoColor=white" alt="View GenreID" />
-</a>
-
-**Music Classification · Python**
-
-An exploration of music classification and audio-related processing using programming and machine learning concepts.
+An exploration of music classification and audio processing using Python.
 
 `Python` `Audio Processing`
 
----
-
 <details>
-<summary><strong>More Projects</strong></summary>
+<summary><strong>More experiments and projects</strong></summary>
 
-<br />
-
-- **[Hemocentro](https://github.com/samuelspineli34/Hemocentro)** — An application concept related to blood donation and blood center services.
-- **[Aplicativo-Risco-UV](https://github.com/samuelspineli34/Aplicativo-Risco-UV)** — An application focused on UV exposure awareness and health risk information.
-- **[Classificador-de-Osteoartrose](https://github.com/samuelspineli34/Classificador-de-Osteoartrose)** — An academic project involving osteoarthritis classification.
+- [Hemocentro](https://github.com/samuelspineli34/Hemocentro) — An application concept related to blood donation and blood center services.
+- [Aplicativo-Risco-UV](https://github.com/samuelspineli34/Aplicativo-Risco-UV) — An application focused on UV exposure awareness.
+- [Classificador-de-Osteoartrose](https://github.com/samuelspineli34/Classificador-de-Osteoartrose) — An academic classification project related to osteoarthritis.
 
 </details>
 
-## Beyond Software
-
-Outside programming, I'm passionate about music, video games, and home gardening.
-
-I enjoy exploring how technology can connect different interests and become useful tools in everyday life.
-
-## Let's Connect
-
-I'm always open to discussing software engineering, interesting projects, and new opportunities.
+## `$ activity`
 
 <div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelspineli34&bg_color=0d1117&color=86d9a5&line=4fbd7a&point=c9f7d5&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
+
+</div>
+
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/samuelspineli34/samuelspineli34/output/github-snake-dark.svg"
+  alt="GitHub contribution snake"
+/>
+
+</div>
+
+
+## `$ exit --social`
+
+<div align="center">
+
+<a href="https://github.com/samuelspineli34">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/samuel-spineli/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://samuelspineli.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-202020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-246B45?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-&nbsp;
-<a href="https://github.com/samuelspineli34">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+
+</div>
+
+<br />
+
+<div align="center">
 
 </div>
