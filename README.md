@@ -13,8 +13,6 @@ I enjoy building useful things, exploring different technologies, and collaborat
 
 Currently exploring **Rust, Tauri, desktop applications, and local AI**.
 
-Outside the editor: music, games, and trying to keep plants alive.
-
 ## Technologies
 
 <div align="center">
