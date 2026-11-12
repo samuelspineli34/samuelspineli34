@@ -154,8 +154,4 @@ I'm always open to discussing software engineering, interesting projects, and ne
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br /><br />
-
-<sub>Always learning. Always building.</sub>
-
 </div>
