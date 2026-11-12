@@ -5,7 +5,7 @@
 
 <br />
 
-*I build software. Occasionally, I even convince it to cooperate.*
+*I like music, plants and programming things that sometimes work as intended to.*
 
 <br />
 
