@@ -1,83 +1,110 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="280"
+     viewBox="0 0 1200 280">
+
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07130f"/>
-      <stop offset="55%" stop-color="#10251c"/>
-      <stop offset="100%" stop-color="#07110e"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07120e"/>
+      <stop offset="55%" stop-color="#10241a"/>
+      <stop offset="100%" stop-color="#080e0c"/>
     </linearGradient>
 
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#78d6a1"/>
-      <stop offset="100%" stop-color="#b5efc9"/>
-    </linearGradient>
-
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" fill="none"
-        stroke="#a4d9b8" stroke-opacity=".075"/>
-    </pattern>
-
-    <radialGradient id="glow">
-      <stop offset="0%" stop-color="#3a9b68" stop-opacity=".25"/>
-      <stop offset="100%" stop-color="#3a9b68" stop-opacity="0"/>
+    <radialGradient id="moon">
+      <stop offset="0%" stop-color="#c5f4d1" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#78c99b" stop-opacity=".1"/>
     </radialGradient>
+
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#142c20"/>
+      <stop offset="100%" stop-color="#09150f"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
 
-  <ellipse cx="1010" cy="80" rx="330" ry="230" fill="url(#glow)"/>
+  <!-- Background atmosphere -->
+  <circle cx="1030" cy="80" r="85" fill="url(#moon)"/>
+  <circle cx="1030" cy="80" r="31" fill="#d3f6d8" opacity=".75"/>
 
-  <g fill="none" stroke="#91d7ad" stroke-opacity=".18">
-    <path d="M850 0L1150 320M930 0L1200 270M760 0L1080 320"/>
-    <circle cx="1010" cy="160" r="112"/>
-    <circle cx="1010" cy="160" r="78"/>
-    <path d="M1010 38V282M888 160H1132"/>
+  <!-- Distant city silhouette -->
+  <g fill="#07110d">
+    <path d="M780 220V155H820V125H850V220Z"/>
+    <path d="M860 220V105H900V135H925V220Z"/>
+    <path d="M935 220V145H970V115H1000V220Z"/>
+    <path d="M1010 220V165H1050V125H1080V220Z"/>
+    <path d="M1090 220V145H1130V220Z"/>
   </g>
 
-  <rect x="72" y="72" width="5" height="176" rx="2.5" fill="url(#accent)"/>
+  <!-- Window -->
+  <rect x="815" y="25" width="320" height="195"
+        rx="12" fill="#0a1711"
+        stroke="#47795b" stroke-opacity=".45"/>
 
-  <text x="108" y="143"
-    fill="#f0f7f2"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="48"
-    font-weight="700"
-    letter-spacing="-1.5">
-    Samuel Spineli
-  </text>
+  <path d="M975 25V220M815 120H1135"
+        stroke="#47795b" stroke-opacity=".25"/>
 
-  <text x="110" y="185"
-    fill="#a9d9bb"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="20"
-    font-weight="500"
-    letter-spacing="2.2">
-    SOFTWARE DEVELOPER
-  </text>
-
-  <text x="110" y="225"
-    fill="#c4d5ca"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="16">
-    Frontend · Full-Stack · Desktop Applications
-  </text>
-
-  <g transform="translate(1010 160)"
-    fill="none"
-    stroke="#b5efc9"
-    stroke-width="2.2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    opacity=".85">
-    <path d="M-35 -18L-57 0L-35 18M35 -18L57 0L35 18M12 -31L-12 31"/>
+  <!-- Window lights -->
+  <g fill="#a5dfae" opacity=".65">
+    <circle cx="880" cy="75" r="2"/>
+    <circle cx="1060" cy="165" r="2"/>
+    <circle cx="1100" cy="65" r="2"/>
+    <circle cx="915" cy="175" r="2"/>
   </g>
 
-  <text x="1125" y="282"
-    fill="#9db9a7"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="10"
-    letter-spacing="2"
-    text-anchor="end">
-    BUILD · LEARN · IMPROVE
-  </text>
+  <!-- Desk -->
+  <path d="M0 231H1200V280H0Z" fill="#080f0b"/>
+  <path d="M0 231H1200" stroke="#4a9667" stroke-opacity=".45"/>
+
+  <!-- Monitor -->
+  <rect x="440" y="75" width="265" height="135"
+        rx="9" fill="#050b08"
+        stroke="#426d50" stroke-width="2"/>
+
+  <rect x="450" y="85" width="245" height="115"
+        rx="4" fill="url(#screen)"/>
+
+  <!-- Code lines -->
+  <g fill="#85d9a1" opacity=".85">
+    <rect x="470" y="105" width="90" height="4" rx="2"/>
+    <rect x="470" y="120" width="145" height="4" rx="2"/>
+    <rect x="490" y="135" width="105" height="4" rx="2"/>
+    <rect x="490" y="150" width="165" height="4" rx="2"/>
+    <rect x="470" y="165" width="120" height="4" rx="2"/>
+    <rect x="490" y="180" width="80" height="4" rx="2"/>
+  </g>
+
+  <path d="M565 210V229M530 229H600"
+        stroke="#426d50" stroke-width="5"
+        stroke-linecap="round"/>
+
+  <!-- Left plant -->
+  <g fill="#39875a">
+    <path d="M100 230Q55 170 88 120Q135 153 100 230Z"/>
+    <path d="M105 230Q110 155 165 135Q170 195 105 230Z"/>
+    <path d="M100 230Q30 205 35 165Q90 168 100 230Z"/>
+    <path d="M110 230Q125 180 185 180Q165 225 110 230Z"/>
+  </g>
+  <path d="M105 235V165M105 205L70 180M110 210L155 170"
+        stroke="#8acb9c" stroke-width="2" fill="none"/>
+
+  <!-- Right plant -->
+  <g fill="#367c51">
+    <path d="M1130 232Q1080 170 1115 125Q1160 170 1130 232Z"/>
+    <path d="M1130 232Q1145 165 1190 160Q1185 205 1130 232Z"/>
+  </g>
+
+  <!-- Small stars -->
+  <g fill="#b8e9c3">
+    <circle cx="300" cy="55" r="2"/>
+    <circle cx="370" cy="110" r="1.5"/>
+    <circle cx="760" cy="45" r="2"/>
+    <circle cx="740" cy="180" r="1.5"/>
+    <circle cx="250" cy="190" r="2"/>
+  </g>
+
+  <!-- Subtle decorative lines -->
+  <path d="M220 250H400M720 250H980"
+        stroke="#78c99b" stroke-opacity=".2"/>
+
 </svg>
