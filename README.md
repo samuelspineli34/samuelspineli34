@@ -25,7 +25,7 @@ Currently exploring **Rust, Tauri, desktop applications, and local AI**.
 
 **Also familiar with**
 
-<img src="https://skillicons.dev/icons?i=flutter,c,c++,cpp,java,linux&theme=dark" alt="Additional technologies" />
+<img src="https://skillicons.dev/icons?i=flutter,c,cs,cpp,java,linux&theme=dark" alt="Additional technologies" />
 
 </div>
 
